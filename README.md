@@ -1,1 +1,1 @@
-# YMBConfigPipeline
+This repository contains a CI pipeline for Yarrow-Mullein Bank. The pipeline automatically tests code changes before they reach the banking application and provides a record of test results to support Ben Secure's audit requirements.
